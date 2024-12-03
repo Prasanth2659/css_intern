@@ -1,0 +1,11 @@
+/* src/App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.homepage, .aboutpage, .servicespage, .contactpage {
+  padding: 20px;
+}
